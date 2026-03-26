@@ -11,7 +11,7 @@
 
 Voici la maquette Packet Tracer avec l'implémentation du DNS 
 
-![image](./img/AP%20Partie%203%20active%20directory%202.png)
+![image]()
 
 ### Fiche de test
 
