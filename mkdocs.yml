@@ -1,0 +1,14 @@
+site_name: My Docs
+
+theme:
+  name: material
+  logo: assets/img/logo.png
+
+nav:
+  - Accueil: index.md
+  - SP3 Mission 1: sp3mission1.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
